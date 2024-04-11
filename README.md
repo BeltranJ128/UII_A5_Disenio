@@ -19,10 +19,10 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 
-##LINK DE REFERENCIA
+## LINK DE REFERENCIA
 -https://youtu.be/TLibH1um4HY?feature=shared
 
-##IMAGENES
+## IMAGENES
 -![image](https://github.com/BeltranJ128/UII_A5_Disenio/assets/143763139/57284b9c-3853-415a-b339-50fa8c06ed93)
 
 -![image](https://github.com/BeltranJ128/UII_A5_Disenio/assets/143763139/14eb4408-8293-4a4d-9254-042f19c387ef)
